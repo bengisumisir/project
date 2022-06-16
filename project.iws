@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d45a12-cf2e-4ae9-b0fd-b804121d95b7" name="Changes" comment="">
+    <list default="true" id="d2d45a12-cf2e-4ae9-b0fd-b804121d95b7" name="Changes" comment="add jenkins">
       <change beforePath="$PROJECT_DIR$/project.iws" beforeDir="false" afterPath="$PROJECT_DIR$/project.iws" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/tr/edu/metu/sm703/SM703Example.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/tr/edu/metu/sm703/SM703Example.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +52,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655317508334</updated>
-      <workItem from="1655317544748" duration="7019000" />
+      <workItem from="1655317544748" duration="8615000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1655401562707</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1655401562707</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add jenkins">
+      <created>1655405337625</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1655405337626</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,5 +96,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="add jenkins" />
+    <option name="LAST_COMMIT_MESSAGE" value="add jenkins" />
   </component>
 </project>
