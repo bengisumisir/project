@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2d45a12-cf2e-4ae9-b0fd-b804121d95b7" name="Changes" comment="add jenkins" />
+    <list default="true" id="d2d45a12-cf2e-4ae9-b0fd-b804121d95b7" name="Changes" comment="add jenkins">
+      <change beforePath="$PROJECT_DIR$/project.iws" beforeDir="false" afterPath="$PROJECT_DIR$/project.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tr/edu/metu/sm703/SM703ExampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tr/edu/metu/sm703/SM703ExampleTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,11 +39,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -50,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1655317508334</updated>
-      <workItem from="1655317544748" duration="9146000" />
+      <workItem from="1655317544748" duration="10305000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1655401562707</created>
@@ -73,7 +82,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655406012832</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add jenkins">
+      <created>1655406231000</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655406231000</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add jenkins">
+      <created>1655406241914</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655406241914</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -15,7 +15,7 @@ public class SM703ExampleTest {
 
     @Test
     public void checkEqualsForNotEquals(){
-        assertEquals(sm703Example.checkEquals(1, 2), false);
+        assertEquals(sm703Example.checkEquals(1, 1), true);
     }
 
     @Test
