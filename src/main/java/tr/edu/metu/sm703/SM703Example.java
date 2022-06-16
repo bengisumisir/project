@@ -11,7 +11,7 @@ public class SM703Example implements RequestHandler<Map<String, Integer>, String
 
     public boolean checkEquals(Integer o1, Integer o2){
         if (isNull(o1))
-            return false; // we assume null's are not equal
+            return false;// we assume null's are not equal to equal
         return o1.equals(o2);
     }
 
