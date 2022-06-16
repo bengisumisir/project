@@ -15,11 +15,11 @@ public class SM703ExampleTest {
 
     @Test
     public void checkEqualsForNotEquals(){
-        assertEquals(sm703Example.checkEquals(1, 1), true);
+        assertEquals(sm703Example.checkEquals(1, 1), false);
     }
 
     @Test
     public void checkEqualsForEquals(){
-        assertEquals(sm703Example.checkEquals(2, 2), true);
+        assertEquals(sm703Example.checkEquals(2, 3), true);
     }
 }
